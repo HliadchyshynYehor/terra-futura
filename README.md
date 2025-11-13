@@ -5,4 +5,3 @@
 * Aleksandr Rakov 2INF1
 * Mykyta Liubomyrskyi 2INF2
 * Yehor Hliadchyshyn 2INF2
-1233
